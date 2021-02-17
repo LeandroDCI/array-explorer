@@ -10,7 +10,7 @@ Check out the site here: [https://arrayexplorer.netlify.com/](https://arrayexplo
 
 Or if you prefer codepen: [https://codepen.io/sdras/full/gogVRX/](https://codepen.io/sdras/full/gogVRX/)
 
-I realize that there are about a million ways that this resource can be set up, and some of the taxonomy is necessarily opionionated. I tried to focus on what I thought would have helped me learn the best, rather than industry standard delineations (mutator, accessor, iteration, for example). There are a lot of resources that already divide the methods this way, so if that style of learning suits you better, that's great! This resource is not set up that way. Please keep in mind that this is not meant to be as comprehensive or a replacement for full documentation, which is why the MDN docs are linked to in each method.
+I realize that there are about a million ways that this resource can be set up, and some of the taxonomy is necessarily opinionated. I tried to focus on what I thought would have helped me learn the best, rather than industry standard delineations (mutator, accessor, iteration, for example). There are a lot of resources that already divide the methods this way, so if that style of learning suits you better, that's great! This resource is not set up that way. Please keep in mind that this is not meant to be as comprehensive or a replacement for full documentation, which is why the MDN docs are linked to in each method.
 
 I based most of the examples and longer descriptions off of the MDN documentation, altering it slightly where I felt the description was not as beginner-friendly as it could be.
 
@@ -24,7 +24,7 @@ I've heard people say they want to fork this project for other languages and dat
 
 - [Ruby Array Explorer](https://contrepoint.github.io/ruby-array-explorer/). Code [here](https://github.com/contrepoint/ruby-array-explorer)
 - [Angular Array Explorer](https://niladri24dutta.github.io/Array-explorer-angular/) . Code [here](https://github.com/Niladri24dutta/Array-explorer-angular)
-- [Python List Explorer](https://akashp1712.github.io/python_explorer/). Code [here](https://github.com/akashp1712/python_explorer)
+- [Python List Explorer](https://akashp1712.github.io/python-explorer/). Code [here](https://github.com/akashp1712/python-explorer)
 - [Ramdajs Methods Explorer](https://davesnx.github.io/learn-ramda/) . Code [here](https://github.com/davesnx/learn-ramda)
 
 ## Thank you!
